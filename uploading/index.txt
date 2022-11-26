@@ -1,1 +1,3 @@
 This is my First attempt in Learning Git from Code With Harry
+So this is edited for teh next update and learnt how to upload these files to github using ssh key from github and gonna try it on my own right now
+
